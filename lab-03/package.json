@@ -1,0 +1,27 @@
+{
+  "name": "lab-03",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals - Lab 3: REST API, query parameters, validation, debugging",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["REST", "API", "SQLite", "Express", "validation"],
+  "author": "JAI SAI",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaisai2070-create/Backend-Development-Fundamentals.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaisai2070-create/Backend-Development-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/jaisai2070-create/Backend-Development-Fundamentals#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}

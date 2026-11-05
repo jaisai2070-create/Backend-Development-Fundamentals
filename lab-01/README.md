@@ -128,8 +128,8 @@ The following screenshots document the actual output of the application:
 ### 4. Unknown Route — 404
 ![Unknown Route — 404](screenshots/not-found.png)
 
-### 5. Express Server Running
-*(Documented during local execution with `npm start`)*
+### 5. Express Server Running (README Overview)
+![Express Server Running](screenshots/terminal-server-running.png)
 
 ### 6. Plain Node.js HTTP Server
 *(Documented during local execution with `node server-http.js`)*
