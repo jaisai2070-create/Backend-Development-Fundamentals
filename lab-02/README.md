@@ -10,7 +10,7 @@
 - **Faculty:** Joel Prashanth D
 
 ---
-
+live link: https://backend-development-fundamentals-la-delta.vercel.app/books
 ## Objective
 
 To build a beginner-friendly Express.js server connected to a SQLite database (`database.db`) using the `sqlite` and `sqlite3` packages, establish the connection using `open()`, and implement the 5 standard RESTful CRUD routes using parameterized SQL queries with `?` placeholders.
